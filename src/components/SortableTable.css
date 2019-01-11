@@ -1,0 +1,35 @@
+.sorting-block {
+  position: relative;
+  padding-right: 20px !important;
+  cursor: pointer;
+  user-select: none;
+
+}
+.table{
+  border: 2px solid black;
+  position:absolute;
+  top:50px;
+  width: 100%;
+}
+.header{
+  border:1px solid black;
+}
+.table_element{
+  text-align: center;
+}
+.table_body{
+
+}
+.table_head{
+  border-bottom: 1px solid black;
+}
+
+.buttonPosition{
+  position:absolute;
+  height: 50px;
+  width: 150px;
+}
+.headerText{
+  top:0px;
+
+}
